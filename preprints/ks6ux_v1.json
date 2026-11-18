@@ -1,0 +1,215 @@
+{
+  "id": "ks6ux_v1",
+  "type": "preprints",
+  "attributes": {
+    "date_created": "2019-07-09T10:56:22.682850",
+    "date_modified": "2024-02-22T14:29:37.085630",
+    "date_published": "2019-07-09T10:58:43.740248",
+    "original_publication_date": null,
+    "custom_publication_citation": null,
+    "doi": "10.1080/15213269.2019.1636660",
+    "title": "Event Related Message Processing: Perceiving and Remembering Changes in Films with and without Soundtrack",
+    "description": "Hollywood movies provide continuous audiovisual information. Yet, information conveyed by movies address different sensory systems. For a broad variety of media applications (such as multimedia learning environments) it is important to understand the underlying cognitive principles. This project addresses the interplay of auditory and visual information during movie perception. Because auditory information is known to change basic visual processes, it is possible that movie perception and comprehension depends on stimulus modality. In this project, we report three experiments that studied how humans perceive and remember changes in visual and audiovisual movie clips. We observed basic processes of event perception (event segmentation, change detection, and memory) to be independent of stimulus modality. We thus conclude that event boundary perception is a general perceptual-cognitive mechanism and discuss these findings with respect to current cognitive psychological and media psychological theories.",
+    "is_published": true,
+    "is_preprint_orphan": false,
+    "license_record": {
+      "copyright_holders": [
+        ""
+      ],
+      "year": "2019"
+    },
+    "tags": [
+      "cut detection",
+      "event cognition",
+      "media psychology",
+      "modality",
+      "movie perception",
+      "soundtrack"
+    ],
+    "preprint_doi_created": "2019-07-09T10:59:11.248405",
+    "date_withdrawn": null,
+    "current_user_permissions": [],
+    "public": true,
+    "reviews_state": "accepted",
+    "date_last_transitioned": "2019-07-09T18:39:31.657058",
+    "version": 1,
+    "is_latest_version": true,
+    "has_coi": null,
+    "conflict_of_interest_statement": null,
+    "has_data_links": null,
+    "why_no_data": null,
+    "data_links": null,
+    "has_prereg_links": null,
+    "why_no_prereg": null,
+    "prereg_links": null,
+    "prereg_link_info": null,
+    "default_license_id": "",
+    "subjects": [
+      [
+        {
+          "id": "5b4e7425c6983001430b6c1e",
+          "text": "Social and Behavioral Sciences"
+        },
+        {
+          "id": "5b4e7427c6983001430b6c71",
+          "text": "Perception"
+        }
+      ],
+      [
+        {
+          "id": "5b4e7425c6983001430b6c1e",
+          "text": "Social and Behavioral Sciences"
+        },
+        {
+          "id": "5b4e7427c6983001430b6c8c",
+          "text": "Cognitive Psychology"
+        },
+        {
+          "id": "5b4e7427c6983001430b6ca5",
+          "text": "Memory"
+        }
+      ]
+    ]
+  },
+  "relationships": {
+    "contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "bibliographic_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/bibliographic_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "versions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/versions/",
+          "meta": {}
+        }
+      }
+    },
+    "citation": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/citation/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "ks6ux_v1",
+        "type": "citation"
+      }
+    },
+    "identifiers": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/identifiers/",
+          "meta": {}
+        }
+      }
+    },
+    "node": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/as9qf/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/relationships/node/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "as9qf",
+        "type": "nodes"
+      }
+    },
+    "license": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "563c1cf88c5e4a3877f9e96a",
+        "type": "licenses"
+      }
+    },
+    "provider": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/providers/preprints/psyarxiv/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "psyarxiv",
+        "type": "preprint-providers"
+      }
+    },
+    "files": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/files/",
+          "meta": {}
+        }
+      }
+    },
+    "primary_file": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/files/5d2472da114a4200160249ee/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "5d2472da114a4200160249ee",
+        "type": "files"
+      }
+    },
+    "review_actions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/review_actions/",
+          "meta": {}
+        }
+      }
+    },
+    "requests": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/requests/",
+          "meta": {}
+        }
+      }
+    },
+    "affiliated_institutions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/institutions/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/preprints/ks6ux_v1/relationships/institutions/",
+          "meta": {}
+        }
+      }
+    }
+  },
+  "links": {
+    "self": "https://api.osf.io/v2/preprints/ks6ux_v1/",
+    "html": "https://osf.io/preprints/psyarxiv/ks6ux_v1/",
+    "doi": "https://doi.org/10.1080/15213269.2019.1636660",
+    "preprint_doi": "https://doi.org/10.31234/osf.io/ks6ux",
+    "iri": "https://osf.io/ks6ux"
+  }
+}

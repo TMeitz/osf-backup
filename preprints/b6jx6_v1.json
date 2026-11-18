@@ -1,0 +1,203 @@
+{
+  "id": "b6jx6_v1",
+  "type": "preprints",
+  "attributes": {
+    "date_created": "2017-01-19T19:39:53.311000",
+    "date_modified": "2018-07-02T10:48:23.386590",
+    "date_published": "2017-01-19T19:43:30.034000",
+    "original_publication_date": null,
+    "custom_publication_citation": null,
+    "doi": "10.1038/srep43083",
+    "title": "Fandom biases retrospective judgments not perception",
+    "description": "Attitudes and motivations have been shown to affect the processing of visual input, indicating that observers may see a given situation each literally in a different way. Yet, in real-life, processing information in an unbiased manner is considered to be of high adaptive value. Attitudinal and motivational effects were found for attention, characterization, categorization, and memory. On the other hand, for dynamic real-life events, visual processing has been found to be highly synchronous among viewers. Thus, while in a seminal study fandom as a particularly strong case of attitudes did bias judgments of a sports event, it left the question open whether attitudes do bias prior processing stages. Here, we investigated influences of fandom during the live TV broadcasting of the 2013 UEFA-Champions-League Final regarding attention, event segmentation, immediate and delayed cued recall, as well as affect, memory confidence, and retrospective judgments. Even though we replicated biased retrospective judgments, we found that eye-movements, event segmentation, and cued recall were largely similar across both groups of fans. Our findings demonstrate that, while highly involving sports events are interpreted in a fan dependent way, at initial stages they are processed in an unbiased manner.",
+    "is_published": true,
+    "is_preprint_orphan": false,
+    "license_record": {
+      "copyright_holders": [],
+      "year": "2017"
+    },
+    "tags": [
+      "event cognition",
+      "event perception",
+      "event segmentation",
+      "eye tracking",
+      "fandom",
+      "top-down effects"
+    ],
+    "preprint_doi_created": "2018-07-02T10:48:23.373523",
+    "date_withdrawn": null,
+    "current_user_permissions": [],
+    "public": true,
+    "reviews_state": "accepted",
+    "date_last_transitioned": "2017-01-19T19:43:30.034000",
+    "version": 1,
+    "is_latest_version": true,
+    "has_coi": null,
+    "conflict_of_interest_statement": null,
+    "has_data_links": null,
+    "why_no_data": null,
+    "data_links": null,
+    "has_prereg_links": null,
+    "why_no_prereg": null,
+    "prereg_links": null,
+    "prereg_link_info": null,
+    "default_license_id": "563c1cf88c5e4a3877f9e96c",
+    "subjects": [
+      [
+        {
+          "id": "584240da54be81056cecac48",
+          "text": "Social and Behavioral Sciences"
+        },
+        {
+          "id": "584240da54be81056cecac68",
+          "text": "Psychology"
+        },
+        {
+          "id": "584240da54be81056cecab7e",
+          "text": "Cognitive Psychology"
+        }
+      ]
+    ]
+  },
+  "relationships": {
+    "contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "bibliographic_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/bibliographic_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "versions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/versions/",
+          "meta": {}
+        }
+      }
+    },
+    "citation": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/citation/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "b6jx6_v1",
+        "type": "citation"
+      }
+    },
+    "identifiers": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/identifiers/",
+          "meta": {}
+        }
+      }
+    },
+    "node": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/xcthg/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/relationships/node/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "xcthg",
+        "type": "nodes"
+      }
+    },
+    "license": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "563c1cf88c5e4a3877f9e96a",
+        "type": "licenses"
+      }
+    },
+    "provider": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/providers/preprints/osf/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "osf",
+        "type": "preprint-providers"
+      }
+    },
+    "files": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/files/",
+          "meta": {}
+        }
+      }
+    },
+    "primary_file": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/files/588115f0594d90004856a1c1/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "588115f0594d90004856a1c1",
+        "type": "files"
+      }
+    },
+    "review_actions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/review_actions/",
+          "meta": {}
+        }
+      }
+    },
+    "requests": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/requests/",
+          "meta": {}
+        }
+      }
+    },
+    "affiliated_institutions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/institutions/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/preprints/b6jx6_v1/relationships/institutions/",
+          "meta": {}
+        }
+      }
+    }
+  },
+  "links": {
+    "self": "https://api.osf.io/v2/preprints/b6jx6_v1/",
+    "html": "https://osf.io/b6jx6_v1/",
+    "doi": "https://doi.org/10.1038/srep43083",
+    "preprint_doi": "https://doi.org/10.31219/osf.io/b6jx6",
+    "iri": "https://osf.io/b6jx6"
+  }
+}

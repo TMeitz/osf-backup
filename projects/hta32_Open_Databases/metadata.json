@@ -1,0 +1,321 @@
+{
+  "id": "hta32",
+  "type": "nodes",
+  "attributes": {
+    "title": "Open Databases",
+    "description": "",
+    "category": "",
+    "custom_citation": null,
+    "date_created": "2019-04-26T09:33:10.541830",
+    "date_modified": "2022-09-15T19:48:13.779114",
+    "registration": false,
+    "preprint": false,
+    "fork": false,
+    "collection": false,
+    "tags": [],
+    "access_requests_enabled": true,
+    "node_license": {
+      "copyright_holders": [
+        ""
+      ],
+      "year": "2019"
+    },
+    "analytics_key": "",
+    "current_user_can_comment": false,
+    "current_user_permissions": [
+      "read"
+    ],
+    "current_user_is_contributor": false,
+    "current_user_is_contributor_or_group_member": false,
+    "wiki_enabled": true,
+    "public": true,
+    "subjects": []
+  },
+  "relationships": {
+    "license": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "563c1cf88c5e4a3877f9e96a",
+        "type": "licenses"
+      }
+    },
+    "children": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/children/",
+          "meta": {}
+        }
+      }
+    },
+    "collected_in": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/collections/",
+          "meta": {}
+        }
+      }
+    },
+    "comments": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/comments/?filter%5Btarget%5D=hta32",
+          "meta": {}
+        }
+      }
+    },
+    "contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "bibliographic_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/bibliographic_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "implicit_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/implicit_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "files": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/files/",
+          "meta": {}
+        }
+      }
+    },
+    "settings": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/settings/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "hta32",
+        "type": "node-setting"
+      }
+    },
+    "wikis": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/wikis/",
+          "meta": {}
+        }
+      }
+    },
+    "forks": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/forks/",
+          "meta": {}
+        }
+      }
+    },
+    "node_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/node_links/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/linked_by_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/linked_by_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "parent": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "9uj35",
+        "type": "nodes"
+      }
+    },
+    "identifiers": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/identifiers/",
+          "meta": {}
+        }
+      }
+    },
+    "affiliated_institutions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/institutions/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/hta32/relationships/institutions/",
+          "meta": {}
+        }
+      }
+    },
+    "draft_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/draft_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "region": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/regions/us/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "us",
+        "type": "regions"
+      }
+    },
+    "root": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "9uj35",
+        "type": "nodes"
+      }
+    },
+    "logs": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/logs/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/linked_nodes/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/hta32/relationships/linked_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/linked_registrations/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/hta32/relationships/linked_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "view_only_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/view_only_links/",
+          "meta": {}
+        }
+      }
+    },
+    "citation": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/citation/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "hta32",
+        "type": "citation"
+      }
+    },
+    "preprints": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/preprints/",
+          "meta": {}
+        }
+      }
+    },
+    "storage": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/storage/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "hta32",
+        "type": "node-storage"
+      }
+    },
+    "cedar_metadata_records": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/hta32/cedar_metadata_records/",
+          "meta": {}
+        }
+      }
+    },
+    "subjects_acceptable": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/subjects/",
+          "meta": {}
+        }
+      }
+    }
+  },
+  "links": {
+    "html": "https://osf.io/hta32/",
+    "self": "https://api.osf.io/v2/nodes/hta32/",
+    "iri": "https://osf.io/hta32"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "r5w68_v1",
+  "type": "preprints",
+  "attributes": {
+    "date_created": "2019-03-22T10:06:33.334994",
+    "date_modified": "2020-04-17T13:15:47.927518",
+    "date_published": "2019-03-22T10:14:22.788628",
+    "original_publication_date": null,
+    "custom_publication_citation": null,
+    "doi": "10.3758/s13421-020-01039-z",
+    "title": "Cross-Codal Integration of Bridging Event Information in Narrative Understanding",
+    "description": "Visual narratives communicate event sequences by using different code systems such as pictures and texts. Thus, comprehenders must integrate information from different codalities. This study addressed such cross-codal integration processes by investigating how the codality of bridging event information (i.e. pictures, text) affects the understanding of visual narrative events. In Experiment 1, bridging event information was either present (as picture or text) or absent (i.e. not shown). The viewing times for the subsequent picture depicting the end state of the action were comparable within the absent and the text conditions. Further, the viewing times for the end state picture were significantly longer in the text condition as compared to the pictorial condition. In Experiment 2, we tested whether replacing bridging event information with a blank panel increases viewing times in a way similar to the text condition. Bridging event information was either present (as picture) or absent (not shown vs. blank panel). The results replicated Experiment 1. Additionally, the viewing times for the end state pictures were longest in the blank condition. In Experiment 3, we investigated the costs related to integrating information from different codalities by directly comparing the text and picture conditions with the blank condition. The results showed that the distortion caused by the blank panel is larger than the distortion caused by cross-codal integration processes. Summarizing, we conclude that cross-codal information processing during narrative comprehension is possible but associated with additional mental effort. We discuss the results with regard to theories of narrative understanding.",
+    "is_published": true,
+    "is_preprint_orphan": false,
+    "license_record": {
+      "copyright_holders": [
+        ""
+      ],
+      "year": "2019"
+    },
+    "tags": [
+      "bridging inferences",
+      "cross-codal integration",
+      "narrative understanding"
+    ],
+    "preprint_doi_created": "2019-03-22T10:14:48.351155",
+    "date_withdrawn": null,
+    "current_user_permissions": [],
+    "public": true,
+    "reviews_state": "accepted",
+    "date_last_transitioned": "2019-03-22T15:28:28.023841",
+    "version": 1,
+    "is_latest_version": true,
+    "has_coi": null,
+    "conflict_of_interest_statement": null,
+    "has_data_links": null,
+    "why_no_data": null,
+    "data_links": null,
+    "has_prereg_links": null,
+    "why_no_prereg": null,
+    "prereg_links": null,
+    "prereg_link_info": null,
+    "default_license_id": "",
+    "subjects": [
+      [
+        {
+          "id": "5b4e7425c6983001430b6c1e",
+          "text": "Social and Behavioral Sciences"
+        },
+        {
+          "id": "5b4e7427c6983001430b6c8c",
+          "text": "Cognitive Psychology"
+        }
+      ]
+    ]
+  },
+  "relationships": {
+    "contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "bibliographic_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/bibliographic_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "versions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/versions/",
+          "meta": {}
+        }
+      }
+    },
+    "citation": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/citation/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "r5w68_v1",
+        "type": "citation"
+      }
+    },
+    "identifiers": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/identifiers/",
+          "meta": {}
+        }
+      }
+    },
+    "node": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/relationships/node/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "scqe3",
+        "type": "nodes"
+      }
+    },
+    "license": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "563c1cf88c5e4a3877f9e96a",
+        "type": "licenses"
+      }
+    },
+    "provider": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/providers/preprints/psyarxiv/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "psyarxiv",
+        "type": "preprint-providers"
+      }
+    },
+    "files": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/files/",
+          "meta": {}
+        }
+      }
+    },
+    "primary_file": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/files/5c94b3ad2ea47a001b791e08/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "5c94b3ad2ea47a001b791e08",
+        "type": "files"
+      }
+    },
+    "review_actions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/review_actions/",
+          "meta": {}
+        }
+      }
+    },
+    "requests": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/requests/",
+          "meta": {}
+        }
+      }
+    },
+    "affiliated_institutions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/institutions/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/preprints/r5w68_v1/relationships/institutions/",
+          "meta": {}
+        }
+      }
+    }
+  },
+  "links": {
+    "self": "https://api.osf.io/v2/preprints/r5w68_v1/",
+    "html": "https://osf.io/preprints/psyarxiv/r5w68_v1/",
+    "doi": "https://doi.org/10.3758/s13421-020-01039-z",
+    "preprint_doi": "https://doi.org/10.31234/osf.io/r5w68",
+    "iri": "https://osf.io/r5w68"
+  }
+}

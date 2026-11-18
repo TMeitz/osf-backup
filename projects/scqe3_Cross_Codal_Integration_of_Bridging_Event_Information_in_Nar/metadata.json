@@ -1,0 +1,314 @@
+{
+  "id": "scqe3",
+  "type": "nodes",
+  "attributes": {
+    "title": "Cross-Codal Integration of Bridging Event Information in Narrative Understanding",
+    "description": "",
+    "category": "project",
+    "custom_citation": null,
+    "date_created": "2019-02-14T13:43:16.583175",
+    "date_modified": "2020-04-22T12:39:15.288970",
+    "registration": false,
+    "preprint": true,
+    "fork": false,
+    "collection": false,
+    "tags": [
+      "bridging inferences",
+      "comics",
+      "cross-codal integration",
+      "narrative understanding"
+    ],
+    "access_requests_enabled": true,
+    "node_license": {
+      "copyright_holders": [
+        ""
+      ],
+      "year": "2019"
+    },
+    "analytics_key": "",
+    "current_user_can_comment": false,
+    "current_user_permissions": [
+      "read"
+    ],
+    "current_user_is_contributor": false,
+    "current_user_is_contributor_or_group_member": false,
+    "wiki_enabled": true,
+    "public": true,
+    "subjects": []
+  },
+  "relationships": {
+    "license": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "563c1cf88c5e4a3877f9e96a",
+        "type": "licenses"
+      }
+    },
+    "children": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/children/",
+          "meta": {}
+        }
+      }
+    },
+    "collected_in": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/collections/",
+          "meta": {}
+        }
+      }
+    },
+    "comments": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/comments/?filter%5Btarget%5D=scqe3",
+          "meta": {}
+        }
+      }
+    },
+    "contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "bibliographic_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/bibliographic_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "implicit_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/implicit_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "files": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/files/",
+          "meta": {}
+        }
+      }
+    },
+    "settings": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/settings/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "scqe3",
+        "type": "node-setting"
+      }
+    },
+    "wikis": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/wikis/",
+          "meta": {}
+        }
+      }
+    },
+    "forks": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/forks/",
+          "meta": {}
+        }
+      }
+    },
+    "node_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/node_links/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/linked_by_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/linked_by_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "identifiers": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/identifiers/",
+          "meta": {}
+        }
+      }
+    },
+    "affiliated_institutions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/institutions/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/relationships/institutions/",
+          "meta": {}
+        }
+      }
+    },
+    "draft_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/draft_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "region": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/regions/de-1/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "de-1",
+        "type": "regions"
+      }
+    },
+    "root": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "scqe3",
+        "type": "nodes"
+      }
+    },
+    "logs": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/logs/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/linked_nodes/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/relationships/linked_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/linked_registrations/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/relationships/linked_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "view_only_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/view_only_links/",
+          "meta": {}
+        }
+      }
+    },
+    "citation": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/citation/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "scqe3",
+        "type": "citation"
+      }
+    },
+    "preprints": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/preprints/",
+          "meta": {}
+        }
+      }
+    },
+    "storage": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/storage/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "scqe3",
+        "type": "node-storage"
+      }
+    },
+    "cedar_metadata_records": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/scqe3/cedar_metadata_records/",
+          "meta": {}
+        }
+      }
+    },
+    "subjects_acceptable": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/subjects/",
+          "meta": {}
+        }
+      }
+    }
+  },
+  "links": {
+    "html": "https://osf.io/scqe3/",
+    "self": "https://api.osf.io/v2/nodes/scqe3/",
+    "iri": "https://osf.io/scqe3"
+  }
+}

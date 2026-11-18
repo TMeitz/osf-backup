@@ -1,0 +1,568 @@
+{
+  "id": "f9ht4",
+  "type": "registrations",
+  "attributes": {
+    "title": "Working Title: Shedding Light on Moral Disengagement. Do Cues Really Matter?",
+    "description": "",
+    "category": "project",
+    "custom_citation": "",
+    "date_created": "2019-02-10T12:12:33.403028",
+    "date_modified": "2019-02-10T12:06:38.491501",
+    "registration": true,
+    "preprint": false,
+    "fork": false,
+    "collection": false,
+    "tags": [],
+    "access_requests_enabled": false,
+    "node_license": null,
+    "analytics_key": "",
+    "current_user_can_comment": false,
+    "current_user_permissions": [
+      "read"
+    ],
+    "current_user_is_contributor": false,
+    "current_user_is_contributor_or_group_member": false,
+    "wiki_enabled": true,
+    "public": true,
+    "ia_url": "https://archive.org/details/osf-registrations-f9ht4-v1",
+    "reviews_state": "accepted",
+    "article_doi": null,
+    "pending_embargo_approval": false,
+    "pending_embargo_termination_approval": false,
+    "embargoed": false,
+    "pending_registration_approval": false,
+    "archiving": false,
+    "pending_withdrawal": false,
+    "withdrawn": false,
+    "has_project": true,
+    "date_registered": "2019-02-10T12:12:33.372130",
+    "date_withdrawn": null,
+    "embargo_end_date": null,
+    "withdrawal_justification": null,
+    "revision_state": "approved",
+    "has_data": false,
+    "has_analytic_code": false,
+    "has_materials": false,
+    "has_papers": false,
+    "has_supplements": false,
+    "registration_supplement": "OSF Preregistration",
+    "registered_meta": {
+      "q1": {
+        "extra": [],
+        "value": "Shedding Light on Moral Disengagement.  Do Cues Really Matter?"
+      },
+      "q2": {
+        "extra": [],
+        "value": "Leonie Seim-Olesch, Paul Max, Tino Meitz, Daria Kuziava"
+      },
+      "q3": {
+        "extra": [],
+        "value": "RESEARCH QUESTIONS: \n-\tRQ1: Is the division into affective and cognitive enjoyment that Tsay and Krakowiak (2011) present verifiable?\n-\tRQ2: Do moral disengagement cues actually affect the moral disengagement, affective dispositions towards and identification with the main character, enjoyment of the media content, and the perceived character similarity? \n-\tRQ3: Does the propensity for moral disengagement affect the actual moral disengagement? \n-\tRQ4: Are moral disengagement and enjoyment related?\n-\tRQ5: In what way are moral disengagement, affective dispositions, and enjoyment related?\n-\tRQ6: In what way are moral disengagement, identification, and character similarity related?\n"
+      },
+      "q4": {
+        "extra": [],
+        "value": "Hypotheses which were formulated by Krakowiak and Tsay (2011) and Tsay and Krakowiak (2011) will be tested. Additionally, measurements that the authors undertook will be critically reviewed and commented. \nReferring to the critical review of Tsay and Krakowiak’s studies, the first hypothesis is relating to RQ1:\n-\tH1: The data will show a significant division into one affective and one cognitive enjoyment factor.\nMoreover, the testing of the manipulation (with cues, without cues) will show significant effects on all of the dependent variables: \n-\tH2.1: Moral disengagement cues do positively affect moral disengagement.\n-\tH2.2: Moral disengagement cues do positively affect affective dispositions.\n-\tH2.3 Moral disengagement cues do positively affect identification.\n-\tH2.4: Moral disengagement cues do positively affect enjoyment. \n-\tH2.5: Moral disengagement cues do positively affect character similarity.\nTesting the hypotheses from Krakowiak and Tsay (2011) the following hypotheses will be presented:\n-\tH3: The propensity for moral disengagement will be positively associated with actual moral disengagement. (Ibid.: 92)\n-\tH4: Moral disengagement will be positively associated with enjoyment. (Ibid.: 93)\n-\tH5.1: Moral disengagement will be positively associated with favourable affective dispositions. (Ibid.: 93)\n-\tH5.2: Favourable affective dispositions will be positively associated with enjoyment. (Ibid.: 93)\nAdditionally, four hypotheses formulated by Tsay and Krakowiak (2011) were incorporated in the testing, namely: \n-\tH6: Identification mediates the relationship between character similarity and moral disengagement. (Ibid.: 105)\n-\tH6.1: Character similarity is positively associated with identification. (Ibid.: 105)\n-\tH6.2: Identification is positively associated with moral disengagement. (Ibid.: 105)\n"
+      },
+      "q5": {
+        "extra": [],
+        "value": "Experiment - A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials."
+      },
+      "q6": {
+        "extra": [],
+        "value": [
+          "No blinding is involved in this study."
+        ]
+      },
+      "q7": {
+        "extra": [],
+        "value": ""
+      },
+      "q8": {
+        "extra": [],
+        "value": {
+          "question": {
+            "extra": [],
+            "value": "This is a cross-sectional study. \nIt is a Two-group-factorial design. Between-subject measures are apllied as well as within-subject measures.\n"
+          },
+          "uploader": {
+            "extra": [],
+            "value": ""
+          }
+        }
+      },
+      "q9": {
+        "extra": [],
+        "value": "Randomization is proceeded within the SoSciSurvey platform by means of which the data will be collected."
+      },
+      "q10": {
+        "extra": [],
+        "value": "Registration prior to creation of data"
+      },
+      "q11": {
+        "extra": [],
+        "value": "Not applicable"
+      },
+      "q12": {
+        "extra": [],
+        "value": {
+          "question": {
+            "extra": [],
+            "value": "\nThe population we will obtain subjects from includes all German-speaking people.\nParticipants will be recruited through different social media networks as well as different university capacities, such as newsletters and mailing lists of different institutes of German universities.\nAmong the participants four vouchers with the value of 10€ will be given away.  \nData collection will be started on the 11th of February and will be finished when the number of at least 176 participants will be reached (at least 88 for each parameter: with/without cues-condition).\n"
+          },
+          "uploader": {
+            "extra": [],
+            "value": ""
+          }
+        }
+      },
+      "q13": {
+        "extra": [],
+        "value": "\nReferring to G*Power analysis a sample size of at least 88 participants for each parameters is necessary to reach credible test results.\n"
+      },
+      "q14": {
+        "extra": [],
+        "value": "See section ‘sample size’ for the rationale."
+      },
+      "q15": {
+        "extra": [],
+        "value": "See section ‚data collection procedures‘ for the stopping rule."
+      },
+      "q16": {
+        "extra": [],
+        "value": {
+          "question": {
+            "extra": [],
+            "value": "There are two questionnaires, one showing a text-stimulus with cues and one without cues. "
+          },
+          "uploader": {
+            "extra": [],
+            "value": ""
+          }
+        }
+      },
+      "q17": {
+        "extra": [],
+        "value": {
+          "question": {
+            "extra": [],
+            "value": "Independent variable is the propensity to moral disengagement. Prior knowledge of the story, and experience in mountain climbing are moderator variables. \nDependent variables are enjoyment, affective dispositions, character similarity, identification, actual moral disengagement, as well as the open question: “How do you valuate the behavior of the main character?”.\nSociodemographics such as gender, age, mother tongue, and education qualifications are also included.\n"
+          },
+          "uploader": {
+            "extra": [],
+            "value": ""
+          }
+        }
+      },
+      "q18": {
+        "extra": [],
+        "value": {
+          "question": {
+            "extra": [],
+            "value": "Mean scores will be computed for the following variables: \nPropensity for moral disengagement, enjoyment, affective dispositions, character similarity, identification, actual moral disengagement. We compute the unweighted arithmetic mean of the scores (1 to 7).\nBefore computing the indices, the single items will be tested on their intra-scale correlations.\n"
+          },
+          "uploader": {
+            "extra": [],
+            "value": ""
+          }
+        }
+      },
+      "q19": {
+        "extra": [],
+        "value": {
+          "question": {
+            "extra": [],
+            "value": "RQ1 will be tested by using factor analysis. \nRQ2 will be tested by using linear bivariate regression.\nRQ3 and RQ6 will be tested by using linear regression. \nTesting RQ4 and RQ5 path analysis and a multiple regression will be conducted.\nG*Power and SPSS are used.\n"
+          },
+          "uploader": {
+            "extra": [],
+            "value": ""
+          }
+        }
+      },
+      "q20": {
+        "extra": [],
+        "value": "We will not apply any transformations on any of the variables in our data."
+      },
+      "q21": {
+        "extra": [],
+        "value": "Defined using G*Power."
+      },
+      "q22": {
+        "extra": [],
+        "value": "Questionnaires will be excluded if participants demonstrate a lack of text comprehension, as well as failure to finish the test."
+      },
+      "q23": {
+        "extra": [],
+        "value": "To avoid missing data all questions are forced-choice."
+      },
+      "q24": {
+        "extra": [],
+        "value": "No exploratory analysis will be applied.\n"
+      },
+      "q25": {
+        "extra": [],
+        "value": "References: \nKrakowiak, K.M., &amp; Tsay, M. (2011). The Role of Moral Disengagement in the Enjoyment of Real and Fictional Characters. International Journal of Arts and Technology, 4, 90-101. doi: 10.1504/IJART.2011.037772\n\nTsay, M., &amp; Krakowiak, K.M. (2011). The Impact of Perceived Character Similarity and Identification on Moral Disengagement. International Journal of Arts and Technology, 4, 102-110. doi: 10.1504/IJART.2011.037773\n"
+      }
+    },
+    "registration_responses": {
+      "q1": "Shedding Light on Moral Disengagement.  Do Cues Really Matter?",
+      "q2": "Leonie Seim-Olesch, Paul Max, Tino Meitz, Daria Kuziava",
+      "q3": "RESEARCH QUESTIONS: \n-\tRQ1: Is the division into affective and cognitive enjoyment that Tsay and Krakowiak (2011) present verifiable?\n-\tRQ2: Do moral disengagement cues actually affect the moral disengagement, affective dispositions towards and identification with the main character, enjoyment of the media content, and the perceived character similarity? \n-\tRQ3: Does the propensity for moral disengagement affect the actual moral disengagement? \n-\tRQ4: Are moral disengagement and enjoyment related?\n-\tRQ5: In what way are moral disengagement, affective dispositions, and enjoyment related?\n-\tRQ6: In what way are moral disengagement, identification, and character similarity related?\n",
+      "q4": "Hypotheses which were formulated by Krakowiak and Tsay (2011) and Tsay and Krakowiak (2011) will be tested. Additionally, measurements that the authors undertook will be critically reviewed and commented. \nReferring to the critical review of Tsay and Krakowiak’s studies, the first hypothesis is relating to RQ1:\n-\tH1: The data will show a significant division into one affective and one cognitive enjoyment factor.\nMoreover, the testing of the manipulation (with cues, without cues) will show significant effects on all of the dependent variables: \n-\tH2.1: Moral disengagement cues do positively affect moral disengagement.\n-\tH2.2: Moral disengagement cues do positively affect affective dispositions.\n-\tH2.3 Moral disengagement cues do positively affect identification.\n-\tH2.4: Moral disengagement cues do positively affect enjoyment. \n-\tH2.5: Moral disengagement cues do positively affect character similarity.\nTesting the hypotheses from Krakowiak and Tsay (2011) the following hypotheses will be presented:\n-\tH3: The propensity for moral disengagement will be positively associated with actual moral disengagement. (Ibid.: 92)\n-\tH4: Moral disengagement will be positively associated with enjoyment. (Ibid.: 93)\n-\tH5.1: Moral disengagement will be positively associated with favourable affective dispositions. (Ibid.: 93)\n-\tH5.2: Favourable affective dispositions will be positively associated with enjoyment. (Ibid.: 93)\nAdditionally, four hypotheses formulated by Tsay and Krakowiak (2011) were incorporated in the testing, namely: \n-\tH6: Identification mediates the relationship between character similarity and moral disengagement. (Ibid.: 105)\n-\tH6.1: Character similarity is positively associated with identification. (Ibid.: 105)\n-\tH6.2: Identification is positively associated with moral disengagement. (Ibid.: 105)\n",
+      "q5": "Experiment - A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.",
+      "q6": [
+        "No blinding is involved in this study."
+      ],
+      "q7": "",
+      "q8.question": "This is a cross-sectional study. \nIt is a Two-group-factorial design. Between-subject measures are apllied as well as within-subject measures.\n",
+      "q8.uploader": [],
+      "q9": "Randomization is proceeded within the SoSciSurvey platform by means of which the data will be collected.",
+      "q10": "Registration prior to creation of data",
+      "q11": "Not applicable",
+      "q12.question": "\nThe population we will obtain subjects from includes all German-speaking people.\nParticipants will be recruited through different social media networks as well as different university capacities, such as newsletters and mailing lists of different institutes of German universities.\nAmong the participants four vouchers with the value of 10€ will be given away.  \nData collection will be started on the 11th of February and will be finished when the number of at least 176 participants will be reached (at least 88 for each parameter: with/without cues-condition).\n",
+      "q12.uploader": [],
+      "q13": "\nReferring to G*Power analysis a sample size of at least 88 participants for each parameters is necessary to reach credible test results.\n",
+      "q14": "See section ‘sample size’ for the rationale.",
+      "q15": "See section ‚data collection procedures‘ for the stopping rule.",
+      "q16.question": "There are two questionnaires, one showing a text-stimulus with cues and one without cues. ",
+      "q16.uploader": [],
+      "q17.question": "Independent variable is the propensity to moral disengagement. Prior knowledge of the story, and experience in mountain climbing are moderator variables. \nDependent variables are enjoyment, affective dispositions, character similarity, identification, actual moral disengagement, as well as the open question: “How do you valuate the behavior of the main character?”.\nSociodemographics such as gender, age, mother tongue, and education qualifications are also included.\n",
+      "q17.uploader": [],
+      "q18.question": "Mean scores will be computed for the following variables: \nPropensity for moral disengagement, enjoyment, affective dispositions, character similarity, identification, actual moral disengagement. We compute the unweighted arithmetic mean of the scores (1 to 7).\nBefore computing the indices, the single items will be tested on their intra-scale correlations.\n",
+      "q18.uploader": [],
+      "q19.question": "RQ1 will be tested by using factor analysis. \nRQ2 will be tested by using linear bivariate regression.\nRQ3 and RQ6 will be tested by using linear regression. \nTesting RQ4 and RQ5 path analysis and a multiple regression will be conducted.\nG*Power and SPSS are used.\n",
+      "q19.uploader": [],
+      "q20": "We will not apply any transformations on any of the variables in our data.",
+      "q21": "Defined using G*Power.",
+      "q22": "Questionnaires will be excluded if participants demonstrate a lack of text comprehension, as well as failure to finish the test.",
+      "q23": "To avoid missing data all questions are forced-choice.",
+      "q24": "No exploratory analysis will be applied.\n",
+      "q25": "References: \nKrakowiak, K.M., &amp; Tsay, M. (2011). The Role of Moral Disengagement in the Enjoyment of Real and Fictional Characters. International Journal of Arts and Technology, 4, 90-101. doi: 10.1504/IJART.2011.037772\n\nTsay, M., &amp; Krakowiak, K.M. (2011). The Impact of Perceived Character Similarity and Identification on Moral Disengagement. International Journal of Arts and Technology, 4, 102-110. doi: 10.1504/IJART.2011.037773\n"
+    },
+    "provider_specific_metadata": [],
+    "subjects": []
+  },
+  "relationships": {
+    "children": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/children/",
+          "meta": {}
+        }
+      }
+    },
+    "collected_in": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/f9ht4/collections/",
+          "meta": {}
+        }
+      }
+    },
+    "comments": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/comments/?filter%5Btarget%5D=f9ht4",
+          "meta": {}
+        }
+      }
+    },
+    "contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "bibliographic_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/bibliographic_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "implicit_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/implicit_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "files": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/files/",
+          "meta": {}
+        }
+      }
+    },
+    "wikis": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/wikis/",
+          "meta": {}
+        }
+      }
+    },
+    "forks": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/forks/",
+          "meta": {}
+        }
+      }
+    },
+    "node_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/node_links/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/linked_by_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/linked_by_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "identifiers": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/identifiers/",
+          "meta": {}
+        }
+      }
+    },
+    "affiliated_institutions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/institutions/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/relationships/institutions/",
+          "meta": {}
+        }
+      }
+    },
+    "region": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/regions/de-1/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "de-1",
+        "type": "regions"
+      }
+    },
+    "root": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "f9ht4",
+        "type": "registrations"
+      }
+    },
+    "logs": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/logs/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/linked_nodes/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/relationships/linked_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/linked_registrations/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/relationships/linked_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "view_only_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/view_only_links/",
+          "meta": {}
+        }
+      }
+    },
+    "citation": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/citation/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "f9ht4",
+        "type": "citation"
+      }
+    },
+    "storage": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/f9ht4/storage/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "f9ht4",
+        "type": "node-storage"
+      }
+    },
+    "cedar_metadata_records": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/cedar_metadata_records/",
+          "meta": {}
+        }
+      }
+    },
+    "registered_by": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/users/93b8w/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "93b8w",
+        "type": "users"
+      }
+    },
+    "registered_from": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/n2ufb/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "n2ufb",
+        "type": "nodes"
+      }
+    },
+    "registration_schema": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/schemas/registrations/5c08457ed283380029cf73bf/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "5c08457ed283380029cf73bf",
+        "type": "registration-schemas"
+      }
+    },
+    "provider": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/providers/registrations/osf/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "osf",
+        "type": "registration-providers"
+      }
+    },
+    "review_actions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/actions/",
+          "meta": {}
+        }
+      }
+    },
+    "requests": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/requests/",
+          "meta": {}
+        }
+      }
+    },
+    "schema_responses": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/schema_responses/",
+          "meta": {}
+        }
+      }
+    },
+    "original_response": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/schema_responses/61a76ec6d283381293d14540/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "61a76ec6d283381293d14540",
+        "type": "schema_responses"
+      }
+    },
+    "latest_response": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/schema_responses/61a76ec6d283381293d14540/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "61a76ec6d283381293d14540",
+        "type": "schema_responses"
+      }
+    },
+    "resources": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/registrations/f9ht4/resources/",
+          "meta": {}
+        }
+      }
+    }
+  },
+  "links": {
+    "html": "https://osf.io/f9ht4/",
+    "self": "https://api.osf.io/v2/registrations/f9ht4/",
+    "iri": "https://osf.io/f9ht4"
+  }
+}

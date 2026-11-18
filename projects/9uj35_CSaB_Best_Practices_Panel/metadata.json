@@ -1,0 +1,309 @@
+{
+  "id": "9uj35",
+  "type": "nodes",
+  "attributes": {
+    "title": "CSaB Best Practices Panel",
+    "description": "This OSF repository serves as a centralized place for Communication Science and Biology researchers to share resources and best practices for developing efficient and open research labs.",
+    "category": "communication",
+    "custom_citation": null,
+    "date_created": "2019-03-15T17:53:41.176971",
+    "date_modified": "2022-09-15T19:48:13.682355",
+    "registration": false,
+    "preprint": false,
+    "fork": false,
+    "collection": false,
+    "tags": [],
+    "access_requests_enabled": true,
+    "node_license": {
+      "copyright_holders": [
+        ""
+      ],
+      "year": "2019"
+    },
+    "analytics_key": "",
+    "current_user_can_comment": false,
+    "current_user_permissions": [
+      "read"
+    ],
+    "current_user_is_contributor": false,
+    "current_user_is_contributor_or_group_member": false,
+    "wiki_enabled": true,
+    "public": true,
+    "subjects": []
+  },
+  "relationships": {
+    "license": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "563c1cf88c5e4a3877f9e96a",
+        "type": "licenses"
+      }
+    },
+    "children": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/children/",
+          "meta": {}
+        }
+      }
+    },
+    "collected_in": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/collections/",
+          "meta": {}
+        }
+      }
+    },
+    "comments": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/comments/?filter%5Btarget%5D=9uj35",
+          "meta": {}
+        }
+      }
+    },
+    "contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "bibliographic_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/bibliographic_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "implicit_contributors": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/implicit_contributors/",
+          "meta": {}
+        }
+      }
+    },
+    "files": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/files/",
+          "meta": {}
+        }
+      }
+    },
+    "settings": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/settings/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "9uj35",
+        "type": "node-setting"
+      }
+    },
+    "wikis": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/wikis/",
+          "meta": {}
+        }
+      }
+    },
+    "forks": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/forks/",
+          "meta": {}
+        }
+      }
+    },
+    "node_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/node_links/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/linked_by_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_by_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/linked_by_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "identifiers": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/identifiers/",
+          "meta": {}
+        }
+      }
+    },
+    "affiliated_institutions": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/institutions/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/relationships/institutions/",
+          "meta": {}
+        }
+      }
+    },
+    "draft_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/draft_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "region": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/regions/us/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "us",
+        "type": "regions"
+      }
+    },
+    "root": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "9uj35",
+        "type": "nodes"
+      }
+    },
+    "logs": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/logs/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_nodes": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/linked_nodes/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/relationships/linked_nodes/",
+          "meta": {}
+        }
+      }
+    },
+    "linked_registrations": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/linked_registrations/",
+          "meta": {}
+        },
+        "self": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/relationships/linked_registrations/",
+          "meta": {}
+        }
+      }
+    },
+    "view_only_links": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/view_only_links/",
+          "meta": {}
+        }
+      }
+    },
+    "citation": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/citation/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "9uj35",
+        "type": "citation"
+      }
+    },
+    "preprints": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/preprints/",
+          "meta": {}
+        }
+      }
+    },
+    "storage": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/storage/",
+          "meta": {}
+        }
+      },
+      "data": {
+        "id": "9uj35",
+        "type": "node-storage"
+      }
+    },
+    "cedar_metadata_records": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/nodes/9uj35/cedar_metadata_records/",
+          "meta": {}
+        }
+      }
+    },
+    "subjects_acceptable": {
+      "links": {
+        "related": {
+          "href": "https://api.osf.io/v2/subjects/",
+          "meta": {}
+        }
+      }
+    }
+  },
+  "links": {
+    "html": "https://osf.io/9uj35/",
+    "self": "https://api.osf.io/v2/nodes/9uj35/",
+    "iri": "https://osf.io/9uj35"
+  }
+}
